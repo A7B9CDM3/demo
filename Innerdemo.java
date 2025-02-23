@@ -13,5 +13,8 @@ public void Innerdemo(){
 public void payment(){
     System.out.println("payt");
 }
+public void auth(){
+    System.out.println("payt");
+}
 
 }
